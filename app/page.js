@@ -277,7 +277,7 @@ export default function Kiosco() {
       <div className="centro">
         <div>
           <h1 className="rotulo">
-            Pregúntele: <em>“¿Desea contestar una encuesta?”</em>
+            Preguntar: <em>“¿Desea contestar una encuesta?”</em>
           </h1>
           <p className="instruccion">
             Es una sola pregunta y toma menos de un minuto. Elija abajo lo que respondió el cliente.
